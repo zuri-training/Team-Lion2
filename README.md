@@ -34,3 +34,10 @@ It is a platform that helps users compare the content of excel files
 5.  Allow user save data and come back to download
 
 ## 🔗 PROJECT LINKS
+
+- #### [Documentaion](https://docs.google.com/document/d/1lzMrFrjyS1ZXJyx0tldLEs-QQ7krs2mdnoqOg77yt5I/edit?usp=sharing)
+- #### [Mood Boards](https://www.figma.com/file/WrMJfeRdDCyc1eKLHTtSla/Execl-comp?node-id=0%3A1&t=rwTx1cZYSd6uYgto-3)
+- #### [Data Schema](https://docs.google.com/document/d/1b8KFOxoqxqY5o2kijQarmPjxMmaibCiW8cX86YbvAbI/edit?usp=sharing)
+- #### [Design Sketches](https://www.figma.com/file/WrMJfeRdDCyc1eKLHTtSla/Execl-comp?node-id=6%3A2&t=rwTx1cZYSd6uYgto-3)
+- #### [Github Repo with read.me file](https://github.com/zuri-training/Team-Lion2)
+
